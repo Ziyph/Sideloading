@@ -1,0 +1,10 @@
+{
+  "name": "Ziyph's Sideloading Source",
+  "identifier": "io.github.ziyph.sideloading",
+  "subtitle": "Unofficial source for apps without one",
+  "description": "Unofficial AltStore-style source. Nothing is re-hosted: every download link points at the app's own GitHub release. Updated automatically by GitHub Actions.",
+  "iconURL": "https://raw.githubusercontent.com/Witch-Launcher/Witch_launcher/main/Natives/logo/logo-main-light.png",
+  "website": "https://github.com/Ziyph/Sideloading",
+  "tintColor": "#1E88E5",
+  "sourceURL": "https://raw.githubusercontent.com/Ziyph/Sideloading/main/{file}"
+}

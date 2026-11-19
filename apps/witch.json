@@ -1,0 +1,16 @@
+{
+  "name": "Witch",
+  "bundleIdentifier": "com.witch.zad626",
+  "developerName": "Za_d626",
+  "subtitle": "Minecraft: Java Edition launcher for iPhone and iPad",
+  "localizedDescription": "Witch is an iOS and iPadOS fork of Amethyst for playing Minecraft: Java Edition. It supports Fabric, Forge, NeoForge and Quilt, the TouchController mod's touch controls, and newer Minecraft versions through bundled LWJGL 3.3.3, 3.3.6 and 3.4.1 builds. Needs JIT (for example StikDebug).\n\nThis entry is unofficial: it links straight to the IPA on Witch's GitHub releases.",
+  "iconURL": "https://raw.githubusercontent.com/Witch-Launcher/Witch_launcher/main/Natives/logo/logo-main-light.png",
+  "tintColor": "#1E88E5",
+  "category": "games",
+  "channel": "stable",
+  "github": {
+    "repo": "Witch-Launcher/Witch_launcher",
+    "tag": "release",
+    "asset": "Witch-[0-9][0-9.]*-ios\\.ipa"
+  }
+}
