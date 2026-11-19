@@ -1,0 +1,26 @@
+{
+  "stable/com.witch.zad626": {
+    "fingerprint": "649919799:2026-10-17T08:01:52Z:287422843",
+    "version": {
+      "version": "0.0.3",
+      "buildVersion": "0.0.3",
+      "marketingVersion": "Witch v0.0.3-bd09e27-20261017 — Release (stable)",
+      "date": "2026-10-17T08:01:53Z",
+      "localizedDescription": "## Witch v0.0.3-bd09e27-20261017 — Stable release\r\n\r\n**Branch:** `main` | **Commit:** `bd09e27` | **Date:** 2026-10-17 08:01 UTC\r\n**Pushed by:** @Ynnyny\r\n**Runner:** promote-from-pre-release\r\n**Workflow run:** https://github.com/Witch-Launcher/Witch_launcher/actions/runs/39015752359\r\n\r\nThis is an automated build published by the Witch Release Bot. You only need to verify — no manual editing required.\r\n\r\n### Contributors (17 commits in this push)\r\n- @Za_d626 — 17 commits\r\n\r\n### What changed\r\n#### Other changes (15)\r\n- `bd09e27c` Merge pull request [#12](https://github.com/Witch-Launcher/Witch_launcher/issues/12) from Witch-Launcher/beta — @Za_d626 (2026-10-17)\r\n  > Beta-0.0.3\r\n  > https://github.com/Witch-Launcher/Witch_launcher/commit/bd09e27cc5c7636c334e1cfb2ec0544bc336bfbd\r\n- `cbf8a55b` TGLMT P-Tess T1: converter TCS→MSL kernel (tag p-tess-t1) — @Za_d626 (2026-10-14)\r\n  > Kèm WIP sẵn có trong repo. TGLMT c770932.\r\n  > https://github.com/Witch-Launcher/Witch_launcher/commit/cbf8a55be7421ffe81e5c09b47811e5008c2538e\r\n- `3dabdae0` TGLMT p3-batch12: clear_texture + clip_control (113 ext, 0 nói dối) — @Za_d626 (2026-10-13)\r\n  > - GL_EXT_clear_texture / GL_ARB_clear_texture: glClearTexImage/SubImage thật\r\n  > - GL_ARB_clip_control: round-trip glGet(CLIP_ORIGIN/CLIP_DEPTH)\r\n  > - Tổng P3: 79 → 113 ext\r\n  > https://github.com/Witch-Launcher/Witch_launcher/commit/3dabdae06dc2c163c282329a5b88fc231c42fa09\r\n- `ea455f9b` TGLMT p3-batch10: +4 enum-only ext (110 ext, 0 nói dối) — @Za_d626 …",
+      "downloadURL": "https://github.com/Witch-Launcher/Witch_launcher/releases/download/release/Witch-0.0.3-ios.ipa",
+      "size": 287422843,
+      "minOSVersion": "14.0"
+    },
+    "appPermissions": {
+      "entitlements": [
+        "com.apple.developer.kernel.extended-virtual-addressing",
+        "com.apple.developer.kernel.increased-memory-limit",
+        "get-task-allow"
+      ],
+      "privacy": {
+        "NSLocalNetworkUsageDescription": "Witch uses the local network to find and communicate with AltServer and LAN servers.",
+        "NSMicrophoneUsageDescription": "Witch uses the microphone to enable support for voice chat mods."
+      }
+    }
+  }
+}
