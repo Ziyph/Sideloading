@@ -4,9 +4,8 @@
 Works like a Scoop bucket's checkver/autoupdate: each apps/*.json manifest says
 which GitHub release and asset to track. When the asset changes, the IPA is
 downloaded once to read its real version, minimum iOS version, entitlements and
-privacy strings, and the source JSON is regenerated. The downloadURL is the
-release asset itself; apps that only ship workflow builds are first copied into
-this repo's releases by mirror.py.
+privacy strings, and the source JSON is regenerated. Nothing is re-hosted; the
+downloadURL is the upstream release asset.
 
 Standard library only, so it runs on a stock GitHub Actions runner.
 """
