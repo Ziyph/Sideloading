@@ -1,7 +1,5 @@
-import json
 import pathlib
 import plistlib
-import re
 import sys
 import tempfile
 import unittest
@@ -110,11 +108,9 @@ class MirroredRunTest(unittest.TestCase):
 
 
 class AssetNameTest(unittest.TestCase):
-    def test_asset_name_matches_manifest(self):
+    def test_asset_name_adds_run_number(self):
         name = mirror.asset_name("com.prisma-devs.prisma-1.0.0-ios.ipa", 316)
         self.assertEqual(name, "com.prisma-devs.prisma-1.0.0-ios-r316.ipa")
-        manifest = json.loads((ROOT / "apps" / "prisma.json").read_text(encoding="utf-8"))
-        self.assertTrue(re.fullmatch(manifest["github"]["asset"], name))
 
 
 if __name__ == "__main__":

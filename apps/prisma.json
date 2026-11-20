@@ -3,20 +3,14 @@
   "bundleIdentifier": "com.prisma-devs.prisma",
   "developerName": "Gsjsjzhznsz",
   "subtitle": "Minecraft: Java Edition launcher for iPhone and iPad.",
-  "localizedDescription": "Prisma is a fork of Air with simpler JIT setup on iOS 26 and in-app language switching. These are nightly test builds, so expect bugs. Not available in mainland China.",
+  "localizedDescription": "Prisma is a fork of Air with simpler JIT setup on iOS 26 and in-app language switching. It's an early beta, so expect bugs. Not available in mainland China.",
   "iconURL": "https://raw.githubusercontent.com/Gsjsjzhznsz/Prisma-Minecraft-iOS-Launcher2/main/Natives/Assets.xcassets/AppIcon-Light.appiconset/1024x1024.png",
   "tintColor": "#90C860",
   "category": "games",
   "channel": "stable",
   "github": {
-    "repo": "Ziyph/Sideloading",
-    "tag": "prisma-nightly",
-    "asset": "com\\.prisma-devs\\.prisma-[0-9][0-9.]*-ios-r[0-9]+\\.ipa"
-  },
-  "mirror": {
     "repo": "Gsjsjzhznsz/Prisma-Minecraft-iOS-Launcher2",
-    "workflow": "development.yml",
-    "branch": "main",
-    "artifact": "com.prisma-devs.prisma-ios.ipa"
+    "tag": "v1.0",
+    "asset": "com\\.prisma-devs\\.prisma-[0-9][0-9.]*-ios\\.ipa"
   }
 }
