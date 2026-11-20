@@ -1,0 +1,15 @@
+{
+  "name": "Air",
+  "bundleIdentifier": "com.air-devs.air",
+  "developerName": "herbrine8403",
+  "subtitle": "Minecraft: Java Edition launcher for iPhone and iPad.",
+  "localizedDescription": "Air is a remake of Amethyst with a redesigned interface, built-in mod management and Modrinth and CurseForge downloads.",
+  "iconURL": "https://raw.githubusercontent.com/herbrine8403/Amethyst-iOS-MyRemastered/main/Natives/Assets.xcassets/AppIcon-Light.appiconset/1024x1024.png",
+  "tintColor": "#4070D0",
+  "category": "games",
+  "channel": "stable",
+  "github": {
+    "repo": "herbrine8403/Amethyst-iOS-MyRemastered",
+    "asset": "Air-[0-9][0-9.]*\\.ipa"
+  }
+}

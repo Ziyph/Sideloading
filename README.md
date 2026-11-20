@@ -10,4 +10,7 @@ Visit [this AltDirect page](https://altdirect.app/?url=https://raw.githubusercon
 
 This source currently features the following software:
 
+- [Air](https://github.com/herbrine8403/Amethyst-iOS-MyRemastered)
+- [Horizon](https://github.com/Kelly-Inc/horizon-ios)
+- [Prisma](https://github.com/Gsjsjzhznsz/Prisma-Minecraft-iOS-Launcher)
 - [Witch](https://github.com/Witch-Launcher/Witch_launcher)
