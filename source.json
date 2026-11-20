@@ -3,7 +3,7 @@
   "identifier": "io.github.ziyph.sideloading",
   "subtitle": "My AltStore-style source for apps without one.",
   "description": "My AltStore-style source for apps without one. Nothing is re-hosted: every download link points at the app's own GitHub release, updated automatically via GitHub Actions.",
-  "iconURL": "https://github.com/Ziyph/Sideloading/main/assets/icon.png",
+  "iconURL": "https://raw.githubusercontent.com/Ziyph/Sideloading/main/assets/icon.png",
   "website": "https://github.com/Ziyph/Sideloading",
   "tintColor": "#0F0F0F",
   "sourceURL": "https://raw.githubusercontent.com/Ziyph/Sideloading/main/source.json",
