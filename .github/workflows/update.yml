@@ -28,15 +28,7 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Mirror workflow builds
-        run: python3 scripts/mirror.py
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          ARTIFACTS_TOKEN: ${{ secrets.ARTIFACTS_TOKEN }}
-
-      # Runs even if mirroring failed, so the other apps still get updated.
       - name: Check releases and rebuild source
-        if: ${{ !cancelled() }}
         run: python3 scripts/update.py
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
