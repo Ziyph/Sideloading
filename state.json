@@ -45,6 +45,32 @@
       }
     }
   },
+  "beta/com.prisma-devs.prisma": {
+    "fingerprint": "697570209:2026-11-01T06:46:42Z:236376823",
+    "version": {
+      "version": "1.0.0",
+      "buildVersion": "1.0.0",
+      "marketingVersion": "Prisma 2 Beta 发布",
+      "date": "2026-11-01T06:45:49Z",
+      "localizedDescription": "**Full Changelog**: https://github.com/Gsjsjzhznsz/Prisma-Minecraft-iOS-Launcher2/commits/v1.0\r\n\r\n\r\n\r\n\r\n预览版本，请帮忙寻找bug，并反馈",
+      "downloadURL": "https://github.com/Gsjsjzhznsz/Prisma-Minecraft-iOS-Launcher2/releases/download/v1.0/com.prisma-devs.prisma-1.0.0-ios.ipa",
+      "size": 236376823,
+      "minOSVersion": "14.0"
+    },
+    "appPermissions": {
+      "entitlements": [
+        "com.apple.private.memorystatus",
+        "com.apple.private.security.container-required",
+        "get-task-allow",
+        "jb.pmap_cs.custom_trust"
+      ],
+      "privacy": {
+        "NSLocalNetworkUsageDescription": "Prisma uses the local network to find and communicate with AltServer and LAN servers, and to enable multiplayer connectivity via Terracotta (compatible with HMCL/FCL/ZL2).",
+        "NSMicrophoneUsageDescription": "Prisma uses the microphone to enable support for voice chat mods.",
+        "NSPhotoLibraryAddUsageDescription": "Prisma uses the photo library add-only access to save Bing daily wallpapers and the donate QR image you choose to save."
+      }
+    }
+  },
   "stable/com.prisma-devs.prisma": {
     "fingerprint": "660158611:2026-10-20T18:42:22Z:235571896",
     "version": {
