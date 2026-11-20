@@ -1,5 +1,5 @@
 {
-  "name": "Ziyph's Sideloading Source",
+  "name": "Ziyph",
   "identifier": "io.github.ziyph.sideloading",
   "subtitle": "My AltStore-style source for apps without one.",
   "description": "My AltStore-style source for apps without one, updated automatically via GitHub Actions.",
