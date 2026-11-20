@@ -1,14 +1,14 @@
 {
   "stable/com.prisma-devs.prisma": {
-    "fingerprint": "697570209:2026-11-01T06:46:42Z:236376823",
+    "fingerprint": "773164173:2026-11-20T20:03:41Z:241728462",
     "version": {
       "version": "1.0.0",
-      "buildVersion": "1.0.0",
-      "marketingVersion": "Prisma 2 Beta 发布",
-      "date": "2026-11-01T06:45:49Z",
-      "localizedDescription": "**Full Changelog**: https://github.com/Gsjsjzhznsz/Prisma-Minecraft-iOS-Launcher2/commits/v1.0\r\n\r\n\r\n\r\n\r\n预览版本，请帮忙寻找bug，并反馈",
-      "downloadURL": "https://github.com/Gsjsjzhznsz/Prisma-Minecraft-iOS-Launcher2/releases/download/v1.0/com.prisma-devs.prisma-1.0.0-ios.ipa",
-      "size": 236376823,
+      "buildVersion": "319",
+      "marketingVersion": "Prisma nightly #319 (55a8441)",
+      "date": "2026-11-20T20:03:42Z",
+      "localizedDescription": "Build #319 from Gsjsjzhznsz/Prisma-Minecraft-iOS-Launcher2, mirrored by this repo's workflow.\n\nSource: https://github.com/Gsjsjzhznsz/Prisma-Minecraft-iOS-Launcher2/tree/55a8441af9630064903c1c5bbcdfde6ad8539609\nWorkflow run: https://github.com/Gsjsjzhznsz/Prisma-Minecraft-iOS-Launcher2/actions/runs/44804001344",
+      "downloadURL": "https://github.com/Ziyph/Sideloading/releases/download/prisma-nightly/com.prisma-devs.prisma-1.0.0-ios-r319.ipa",
+      "size": 241728462,
       "minOSVersion": "14.0"
     },
     "appPermissions": {
