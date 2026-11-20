@@ -2,7 +2,7 @@
   "name": "Ziyph's Sideloading Source",
   "identifier": "io.github.ziyph.sideloading",
   "subtitle": "My AltStore-style source for apps without one.",
-  "description": "My AltStore-style source for apps without one. Nothing is re-hosted: every download link points at the app's own GitHub release, updated automatically via GitHub Actions.",
+  "description": "My AltStore-style source for apps without one. Apps download straight from their own GitHub releases, except Prisma, whose nightly builds are mirrored here. Updated automatically via GitHub Actions.",
   "iconURL": "https://raw.githubusercontent.com/Ziyph/Sideloading/main/assets/icon.png",
   "website": "https://github.com/Ziyph/Sideloading",
   "tintColor": "#0F0F0F",
