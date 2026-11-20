@@ -10,4 +10,4 @@ Visit [this AltDirect page](https://altdirect.app/?url=https://raw.githubusercon
 
 This source currently features the following software:
 
-- [Prisma](https://github.com/Gsjsjzhznsz/Prisma-Minecraft-iOS-Launcher2)
+- [Prisma Ⅱ](https://github.com/Gsjsjzhznsz/Prisma-Minecraft-iOS-Launcher2)
